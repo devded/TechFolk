@@ -7,7 +7,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-2 gap-12 mb-12">
           <div>
-            <h3 className="text-2xl font-bold mb-4">TechForge Newsletter</h3>
+            <h3 className="text-2xl font-bold mb-4">TechFolk Newsletter</h3>
             <p className="text-background/80 mb-6">
               Stay updated with our latest projects, insights, and industry trends.
             </p>
@@ -76,9 +76,9 @@ export function Footer() {
 
         <div className="border-t border-background/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <div className="text-6xl font-bold mb-4 md:mb-0">TechForge</div>
+            <div className="text-6xl font-bold mb-4 md:mb-0">TechFolk</div>
             <div className="text-background/60 text-sm">
-              © 2025 TechForge. All rights reserved. Built with passion and precision.
+              © 2025 TechFolk. All rights reserved. Built with passion and precision.
             </div>
           </div>
         </div>
