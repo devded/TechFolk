@@ -93,10 +93,10 @@ export function ServicesSection() {
                 </CardHeader>
                 <CardContent>
                   <CardDescription className="text-base leading-relaxed mb-4">{service.description}</CardDescription>
-                  <div className="flex items-center text-primary font-medium group-hover:text-primary/80 transition-all duration-300 cursor-pointer">
+                  {/* <div className="flex items-center text-primary font-medium group-hover:text-primary/80 transition-all duration-300 cursor-pointer">
                     Learn More
                     <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-2 transition-transform duration-300" />
-                  </div>
+                  </div> */}
                 </CardContent>
               </Card>
             </div>
